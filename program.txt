@@ -1,0 +1,29 @@
+import sys
+def bar():
+    pass
+def foo():
+    pass
+def main():
+    a = 1
+    a = a + 1
+    a = a + 1
+    a = a + 1
+    a = a + 1
+    b = a
+    a = 1
+    a = a + 1
+    a = a + 1
+    a = a + 1
+    a = a + 1
+    b = a
+    b = a
+    b = a
+    b = a
+    b = a
+    aaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaabca
+def foobar():
+    fooooooooooooooobarrrrrrrrrrrrrrr
+    fooooooooooooootbarrrrrrrrrrrr
+if __name__ == 'main':
+   main()

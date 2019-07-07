@@ -70,7 +70,7 @@ def q6():
         k += 1
         if g == 1:
             break
-    return k
+
 
 
 def q7():
